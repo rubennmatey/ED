@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\UNIVERSIDAD\2\2ºCuatri\ED\Ejercicios juez\Ej_vectores_dispersos\Ej_vectores_dispersos\main.cpp(44,11): warning C4101: 'val': variable local sin referencia
+C:\UNIVERSIDAD\2\2ºCuatri\ED\Ejercicios juez\Ej_vectores_dispersos\Ej_vectores_dispersos\main.cpp(43,17): warning C4101: 'i': variable local sin referencia
+  Ej_vectores_dispersos.vcxproj -> C:\UNIVERSIDAD\2\2ºCuatri\ED\Ejercicios juez\Ej_vectores_dispersos\x64\Debug\Ej_vectores_dispersos.exe

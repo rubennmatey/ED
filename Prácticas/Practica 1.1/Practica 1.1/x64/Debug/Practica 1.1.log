@@ -1,0 +1,26 @@
+﻿  Main.cpp
+G:\Otros ordenadores\Mi portátil\UNIVERSIDAD\2\2ºCuatri\ED\Practicas\Practica 1.1\Practica 1.1\Memoria.h(30,21): warning C4018: '<': no coinciden signed/unsigned
+G:\Otros ordenadores\Mi portátil\UNIVERSIDAD\2\2ºCuatri\ED\Practicas\Practica 1.1\Practica 1.1\Memoria.h(28,2): message : al compilar la función del miembro clase plantilla "Memoria<tElem>::Memoria(unsigned int)"
+G:\Otros ordenadores\Mi portátil\UNIVERSIDAD\2\2ºCuatri\ED\Practicas\Practica 1.1\Practica 1.1\Main.cpp(108,19): message : vea la primera referencia a “Memoria<tElem>::Memoria” en “crea_memoria”
+G:\Otros ordenadores\Mi portátil\UNIVERSIDAD\2\2ºCuatri\ED\Practicas\Practica 1.1\Practica 1.1\Main.cpp(108,17): message : Vea la referencia a la creación de una instancia de clase plantilla "Memoria<tElem>" que se está compilando
+G:\Otros ordenadores\Mi portátil\UNIVERSIDAD\2\2ºCuatri\ED\Practicas\Practica 1.1\Practica 1.1\Memoria.h(80,10): warning C4018: '>=': no coinciden signed/unsigned
+G:\Otros ordenadores\Mi portátil\UNIVERSIDAD\2\2ºCuatri\ED\Practicas\Practica 1.1\Practica 1.1\Memoria.h(78,7): message : al compilar la función del miembro clase plantilla "bool Memoria<Par>::inicializada(unsigned int) const"
+G:\Otros ordenadores\Mi portátil\UNIVERSIDAD\2\2ºCuatri\ED\Practicas\Practica 1.1\Practica 1.1\Main.cpp(72,4): message : vea la primera referencia a “Memoria<Par>::inicializada” en “ejecuta_caso”
+G:\Otros ordenadores\Mi portátil\UNIVERSIDAD\2\2ºCuatri\ED\Practicas\Practica 1.1\Practica 1.1\Main.cpp(22,14): message : Vea la referencia a la creación de una instancia de clase plantilla "Memoria<Par>" que se está compilando
+G:\Otros ordenadores\Mi portátil\UNIVERSIDAD\2\2ºCuatri\ED\Practicas\Practica 1.1\Practica 1.1\Memoria.h(49,8): warning C4018: '>=': no coinciden signed/unsigned
+G:\Otros ordenadores\Mi portátil\UNIVERSIDAD\2\2ºCuatri\ED\Practicas\Practica 1.1\Practica 1.1\Memoria.h(47,11): message : al compilar la función del miembro clase plantilla "const T &Memoria<T>::valor(unsigned int) const"
+          with
+          [
+              T=Par
+          ]
+G:\Otros ordenadores\Mi portátil\UNIVERSIDAD\2\2ºCuatri\ED\Practicas\Practica 1.1\Practica 1.1\Main.cpp(56,10): message : vea la primera referencia a “Memoria<Par>::valor” en “ejecuta_caso”
+G:\Otros ordenadores\Mi portátil\UNIVERSIDAD\2\2ºCuatri\ED\Practicas\Practica 1.1\Practica 1.1\Memoria.h(139,30): warning C4018: '<': no coinciden signed/unsigned
+G:\Otros ordenadores\Mi portátil\UNIVERSIDAD\2\2ºCuatri\ED\Practicas\Practica 1.1\Practica 1.1\Memoria.h(135,7): message : al compilar la función del miembro clase plantilla "void Memoria<int>::copiar(const Memoria<int> &)"
+G:\Otros ordenadores\Mi portátil\UNIVERSIDAD\2\2ºCuatri\ED\Practicas\Practica 1.1\Practica 1.1\Memoria.h(91,10): message : vea la primera referencia a “Memoria<int>::copiar” en “Memoria<int>::operator =”
+G:\Otros ordenadores\Mi portátil\UNIVERSIDAD\2\2ºCuatri\ED\Practicas\Practica 1.1\Practica 1.1\Main.cpp(107,5): message : vea la primera referencia a “Memoria<int>::operator =” en “crea_memoria”
+G:\Otros ordenadores\Mi portátil\UNIVERSIDAD\2\2ºCuatri\ED\Practicas\Practica 1.1\Practica 1.1\Memoria.h(111,30): warning C4018: '<': no coinciden signed/unsigned
+G:\Otros ordenadores\Mi portátil\UNIVERSIDAD\2\2ºCuatri\ED\Practicas\Practica 1.1\Practica 1.1\Memoria.h(106,7): message : al compilar la función del miembro clase plantilla "void Memoria<int>::redimensionar(int)"
+G:\Otros ordenadores\Mi portátil\UNIVERSIDAD\2\2ºCuatri\ED\Practicas\Practica 1.1\Practica 1.1\Memoria.h(137,17): message : vea la primera referencia a “Memoria<int>::redimensionar” en “Memoria<int>::copiar”
+G:\Otros ordenadores\Mi portátil\UNIVERSIDAD\2\2ºCuatri\ED\Practicas\Practica 1.1\Practica 1.1\Memoria.h(91,10): message : vea la primera referencia a “Memoria<int>::copiar” en “Memoria<int>::operator =”
+G:\Otros ordenadores\Mi portátil\UNIVERSIDAD\2\2ºCuatri\ED\Practicas\Practica 1.1\Practica 1.1\Main.cpp(107,5): message : vea la primera referencia a “Memoria<int>::operator =” en “crea_memoria”
+  Practica 1.1.vcxproj -> G:\Otros ordenadores\Mi portátil\UNIVERSIDAD\2\2ºCuatri\ED\Practicas\Practica 1.1\x64\Debug\Practica 1.1.exe
